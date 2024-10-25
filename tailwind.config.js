@@ -10,7 +10,8 @@ module.exports = {
         custom_white:"#FEFEFE"
       },
       fontFamily:{
-
+        sans:['Montserrat','Poppins'],
+        titles:['Poppins','sans_serif']
       }
     },
   },
